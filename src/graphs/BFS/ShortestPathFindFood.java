@@ -121,7 +121,7 @@ public class ShortestPathFindFood {
     }
 
 
-    private class Vector {
+    public static class Vector {
         int x;
         int y;
 

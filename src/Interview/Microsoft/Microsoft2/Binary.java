@@ -1,4 +1,4 @@
-package Microsoft.Microsoft2;
+package Interview.Microsoft.Microsoft2;
 
 public class Binary {
 

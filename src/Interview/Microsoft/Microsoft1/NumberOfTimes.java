@@ -1,4 +1,4 @@
-package Microsoft.Microsoft1;
+package Interview.Microsoft.Microsoft1;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package LeetCodePatterns.Array;
+package SeanPrashad.Array;
 
 import java.util.Arrays;
 import java.util.List;
@@ -12,6 +12,6 @@ public class MissingNumber {
                 return i;
             }
         }
-        return -1;
+        return nums.length;
     }
 }
